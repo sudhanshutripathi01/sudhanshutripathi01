@@ -1,7 +1,7 @@
-- 👋 Hi, I’m a passionate deveploper who loves turning ideas into reality through code .
-- 👀 I’m interested in Web deveplopment | problem solving .
-- 🌱 I’m currently learning backend web deveplopment .
-- 📫 You can connect me through my email or my linkedin profile.
+Frontend Web Developer
+I build fast, responsive, and scalable web interfaces
+Skilled in HTML, CSS, JavaScript, React
+Open to freelance & collaboration 🤝
 
 
 <!---
