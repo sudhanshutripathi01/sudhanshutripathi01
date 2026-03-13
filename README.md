@@ -19,7 +19,7 @@
 - Backend Developer (Part-time) working with **NestJS, PostgreSQL, Fastify**
 
 ### 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/sudhanshu-tripathi
+- LinkedIn:https://www.linkedin.com/in/sudhanshu-tripathi-5738b22ba?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ⚡ Always learning, building, and improving.
 
