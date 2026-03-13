@@ -16,7 +16,7 @@
 - Advanced Backend Development
 
 ### 💼 Experience
-- Backend Developer (Part-time) working with **NestJS, PostgreSQL, Fastify**
+- Backend Developer working with **NestJS, PostgreSQL, Fastify**
 
 ### 📫 Connect with me
 - LinkedIn:https://www.linkedin.com/in/sudhanshu-tripathi-5738b22ba?utm_source=share_via&utm_content=profile&utm_medium=member_android
